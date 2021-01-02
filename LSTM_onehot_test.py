@@ -260,7 +260,7 @@ if __name__ == "__main__":
 
 
     ## path of Extraction Folder 
-    alphabetFrame_Path = "./Evaluate/{}/".format(method_cutAlphabet)
+    alphabetFrame_Path = "./Distance_centroidData/{}/".format(method_cutAlphabet)
 
     ### Alphabet extraction from Phase 2
     nrow_test = len(annotaion_file_list_test)
