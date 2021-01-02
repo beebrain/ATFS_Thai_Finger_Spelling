@@ -1,4 +1,4 @@
-This is a Automatic Thai Finger language Spelling Transcription.
+<h> This is a Automatic Thai Finger language Spelling Transcription. </h>
 1. Introduction
 This is my implementation of ATFS in python. 
 The ATFS has 3 part, e.g., Alphabet-separattion state(ALS), Sign recognition state(SR), and Sign Sequence classification state(SSC).
